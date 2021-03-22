@@ -1,0 +1,8 @@
+/node_modules
+/static/wallet.json
+.env
+yarn.lock
+package-json.lock
+yarn-error.log
+.DS_Store
+.vscode
